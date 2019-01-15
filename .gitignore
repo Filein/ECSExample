@@ -1,1 +1,5 @@
 /Library
+/obj
+/.vscode
+/*.csproj
+/*.sln
